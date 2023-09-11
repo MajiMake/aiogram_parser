@@ -1,0 +1,1 @@
+from aiogram_parser.telegram.bot import start_bot

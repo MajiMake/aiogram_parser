@@ -1,0 +1,1 @@
+from aiogram_parser.telegram.lexicons.lexicon import LEXICON_RU

@@ -1,0 +1,6 @@
+.env
+.idea
+.venv
+__pycache__/
+.mypy_cache/
+aiogram_parser/phone_sellers.session

@@ -1,0 +1,1 @@
+from aiogram_parser.client.start_client import client
